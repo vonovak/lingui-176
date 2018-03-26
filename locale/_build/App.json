@@ -1,0 +1,10 @@
+{
+  "Maximum of {num} items can be selected": {
+    "origin": [
+      [
+        "App.js",
+        10
+      ]
+    ]
+  }
+}
